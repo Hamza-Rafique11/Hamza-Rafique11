@@ -1,7 +1,17 @@
-**Hi there 
-I’m **Hamza Rafique**, a BS Cybersecurity student at HITEC University Taxila and an aspiring SOC Analyst with hands-on experience in network security, vulnerability assessment, digital forensics, and cybersecurity simulations. I work with tools including **Kali Linux, Nmap, Wireshark, tcpdump, Cisco Packet Tracer, VirtualBox, and Python**, along with networking technologies such as TCP/IP, routing, switching, VLANs, and VPNs.
+🛡️ Cybersecurity Student | SOC Analyst Aspirant | Security Enthusiast
 
-Currently, I’m working on my **Cybersecurity Digital Twin Simulation Platform**, focusing on attack-path simulation, risk scoring, and security visualization using **Python, React, Express.js, and NetworkX**. I’m also building my practical skills through cybersecurity labs, security assessments, and hands-on projects.
+👋 Hi, I’m Hamza Rafique, a BS Cybersecurity student at HITEC University Taxila, passionate about network security, vulnerability assessment, digital forensics, and cybersecurity simulations.
 
-📩 Contact: [hamzarafique688@gmail.com](mailto:hamzarafique688@gmail.com) | 📍 Rawalpindi, Pakistan
-**
+🛠️ Tools & Technologies:
+🔹 Kali Linux • Nmap • Wireshark • tcpdump
+🔹 Cisco Packet Tracer • VirtualBox • Python
+🔹 TCP/IP • Routing & Switching • VLANs • VPNs
+
+🚀 Currently Working On:
+🔐 Cybersecurity Digital Twin Simulation Platform — developing attack-path simulations, risk scoring, and security visualization using Python, React, Express.js, and NetworkX.
+
+📚 Continuously building my practical cybersecurity skills through hands-on labs, security assessments, and real-world security projects.
+
+📩 Let’s Connect:
+📧 hamzarafique688@gmail.com
+📍 Rawalpindi, Pakistan
