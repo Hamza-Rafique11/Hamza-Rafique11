@@ -2,4 +2,4 @@ I’m **Hamza Rafique**, a BS Cybersecurity student at HITEC University Taxila a
 
 Currently, I’m working on my **Cybersecurity Digital Twin Simulation Platform**, focusing on attack-path simulation, risk scoring, and security visualization using **Python, React, Express.js, and NetworkX**. I’m also building my practical skills through cybersecurity labs, security assessments, and hands-on projects.
 
-📩 Contact: [hamzarafique688@gmail.com](mailto:hamzarafique688@gmail.com) | 📍 Taxila, Pakistan
+📩 Contact: [hamzarafique688@gmail.com](mailto:hamzarafique688@gmail.com) | 📍 Rawalpindi, Pakistan
