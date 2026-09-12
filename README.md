@@ -8,7 +8,7 @@
 🔹 TCP/IP • Routing & Switching • VLANs • VPNs
 
 🚀 Currently Working On:
-🔐 Cybersecurity Digital Twin Simulation Platform — developing attack-path simulations, risk scoring, and security visualization using Python, React, Express.js, and NetworkX.
+ Cybersecurity Digital Twin Simulation Platform — developing attack-path simulations, risk scoring, and security visualization using Python, React, Express.js, and NetworkX.
 
 📚 Continuously building my practical cybersecurity skills through hands-on labs, security assessments, and real-world security projects.
 
